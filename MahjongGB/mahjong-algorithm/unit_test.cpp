@@ -3,7 +3,7 @@
 #include "stringify.h"
 #include "fan_calculator.h"
 
-#include <stdio.h>
+#include <cstdio>
 #include <iostream>
 #include <limits>
 #include <assert.h>

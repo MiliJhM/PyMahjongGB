@@ -22,8 +22,8 @@
 
 #include "fan_calculator.h"
 #include <assert.h>
-#include <stddef.h>
-#include <string.h>
+#include <cstddef>
+#include <cstring>
 #include <algorithm>
 #include <iterator>
 #include "standard_tiles.h"

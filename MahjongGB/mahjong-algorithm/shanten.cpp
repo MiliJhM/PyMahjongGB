@@ -22,7 +22,7 @@
 
 #include "shanten.h"
 #include <assert.h>
-#include <string.h>
+#include <cstring>
 #include <limits>
 #include <algorithm>
 #include <iterator>
